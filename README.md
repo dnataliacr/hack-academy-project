@@ -3,6 +3,12 @@
   
   <p align="center"> Simple landing page using Vue.js, Jquey & Bootstrap</p>
   
-  <h4 align="center">Screenshot</h4>
+  <h4 align="center">Screenshots</h4>
   
   ![Screenshot](screenshot.png)
+  ***
+  ![Screenshot](screen2.png)
+  ***
+  ![Screenshot](screen.png)
+  ***
+
