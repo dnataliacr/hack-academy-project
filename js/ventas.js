@@ -1,4 +1,6 @@
 
+
+
 var salesApp = new Vue({
     el: '#sales',
     data: {
@@ -6,6 +8,7 @@ var salesApp = new Vue({
         currency            : "USD", 
         exchangeRateUYU     : 0,
         brands              : [], 
+        brandSelected       : "",
         models              : [], 
         modelSelected       : "",
         years               : [], 
